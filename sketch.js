@@ -8,9 +8,9 @@ const Body = Matter.Body;
 
 function preload()
 {
-	starImg = loadImage("images/star.png");
-	bgImg = loadImage("images/starNight.png");
-	fairyImage = loadAnimation("images/fairyImage1.png","images/fairyImage2.png")
+	starImg = loadImage("star.png");
+	bgImg = loadImage("starNight.png");
+	fairyImage = loadAnimation("fairyImage1.png","fairyImage2.png")
 	
 }
 
